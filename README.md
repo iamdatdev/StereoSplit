@@ -1,4 +1,4 @@
-# StereoSplit 🎧🔊
+# StereoSplit 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge&logo=windows" alt="Platform" />
@@ -14,35 +14,35 @@
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-- 🔀 **Independent Channel Routing**
+-  **Independent Channel Routing**
   - Split standard stereo streams into separate Left and Right discrete output channels.
   - Route Left to one audio device (e.g. primary headphone) and Right to another (e.g. secondary speaker/earpiece).
 
-- 🌐 **Multi-Device & Multi-Link Support**
+-  **Multi-Device & Multi-Link Support**
   - Broadcast and synchronize audio across multiple connected audio interfaces simultaneously.
   - Mix and match USB DACs, Bluetooth devices, and 3.5mm analog outputs.
 
-- 🔊 **Spatial Audio & 3D Separation**
+-  **Spatial Audio & 3D Separation**
   - Enhanced stereo imaging and spatial positioning for immersive listening, gaming, and production setups.
   - Directional sound separation designed for assistive listening and multi-speaker room layouts.
 
-- 🎚️ **Per-Channel Volume & Gain Controls**
+-  **Per-Channel Volume & Gain Controls**
   - Independent gain adjustment, mute toggles, and balance sliders for each destination.
   - Peak-level indicators to prevent clipping and audio distortion.
 
-- ⚡ **Ultra-Low Latency Engine**
+-  **Ultra-Low Latency Engine**
   - Built on high-performance Windows audio APIs with minimal buffer overhead.
   - Suitable for real-time applications, gaming, media editing, and live monitoring.
 
-- 🚀 **Portable & Lightweight**
+-  **Portable & Lightweight**
   - Zero complex installations or driver hacks — standalone `.exe` ready to run.
   - No background telemetry, minimal CPU and RAM footprint.
 
 ---
 
-## 🖥️ System Architecture
+##  System Architecture
 
 ```
                        ┌───────────────────────┐
@@ -68,11 +68,11 @@
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Download
 Grab the latest pre-compiled binary from the **[Releases](https://github.com/iamdatdev/StereoSplit/releases/latest)** page:
-- 📦 **[Download StereoSplit.exe (v1.0.0)](https://github.com/iamdatdev/StereoSplit/releases/download/v1.0.0/StereoSplit.exe)**
+-  **[Download StereoSplit.exe (v1.0.0)](https://github.com/iamdatdev/StereoSplit/releases/download/v1.0.0/StereoSplit.exe)**
 
 ### 2. Run
 1. Double-click `StereoSplit.exe` to start the application (no setup wizard required).
@@ -82,7 +82,7 @@ Grab the latest pre-compiled binary from the **[Releases](https://github.com/iam
 
 ---
 
-## 📋 System Requirements
+##  System Requirements
 
 | Requirement | Specification |
 | :--- | :--- |
@@ -93,7 +93,7 @@ Grab the latest pre-compiled binary from the **[Releases](https://github.com/iam
 
 ---
 
-## 🛠️ Typical Use Cases
+##  Typical Use Cases
 
 - **Shared Audio on Two Headsets**: Listen with a friend using two pairs of earphones, routing each channel or dedicated streams to individual listeners.
 - **Multi-Room & Spatial Testing**: Route left/right soundstage elements to physically separated speaker monitors for acoustics calibration.
@@ -102,6 +102,6 @@ Grab the latest pre-compiled binary from the **[Releases](https://github.com/iam
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute.
